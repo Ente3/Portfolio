@@ -13,7 +13,7 @@
 
 ### Inhalte des Portfolios
 - Hier sind einige der Projekte, die in diesem Portfolio enthalten sind:
-    - soon.
+    - [Minecraft Inventory Sorter Mod](https://github.com/Ente3/Inventory-Sorter-Mod)
 
 ### Verwendung der Projekte
 - Jedes Projekt wird mit den erforderlichen Anweisungen zur Installation und Verwendung geliefert.
