@@ -1,7 +1,7 @@
 # Mein Portfolio
 
 ### Über mich
-- Mein Name ist [Lajos](https://BaxNetzwerk.de) und ich bin im Internet als Ente_3 bekannt.
+- Mein Name ist [Lajos](https://lajos.grellmann.eu) und ich bin im Internet als Ente_3 bekannt.
 - 🚀 Ich bin der Administrator, Leiter und Entwickler des BaxNetzwerks (https://baxnetzwerk.de).
 - 🎓 Derzeit befinde ich mich in meiner Ausbildung zum Fachinformatiker für Systemintegration, die voraussichtlich bis Anfang 2025 andauern wird.
 - Meine Programmiersprachen sind Java, C Sharp, Python, JavaScript, PHP und C#.
